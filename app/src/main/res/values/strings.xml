@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyApp</string>
+    <string name="weight">Enter Your Wieght</string>
+    <string name="heightFT">Enter your height (FT)</string>
+    <string name="heightIN">Enter your height (IN)</string>
+    <string name="btncal">Calculate</string>
+</resources>
